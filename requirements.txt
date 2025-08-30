@@ -1,0 +1,7 @@
+requirements.txts
+
+streamlit
+scapy
+scikit-learn
+numpy
+
